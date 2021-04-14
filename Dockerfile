@@ -1,4 +1,4 @@
-FROM land007/muggle_ocr:latest
+FROM xcnss1ilb/test_ocr:v1
 
 MAINTAINER ff <ff@cc.cc>
 
