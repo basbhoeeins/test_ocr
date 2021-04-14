@@ -1,4 +1,4 @@
-FROM xcnss1ilb/test_ocr:v1
+FROM xcnss1ilb/test_ocr:latest
 
 MAINTAINER ff <ff@cc.cc>
 
